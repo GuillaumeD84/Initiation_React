@@ -1,4 +1,4 @@
-.DS_Store     # Fichier système sous mac OS
-Thumbs.db     # Fichier système sous windows
+.DS_Store
+Thumbs.db
 /**/node_modules
 /**/public

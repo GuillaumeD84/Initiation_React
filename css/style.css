@@ -1,0 +1,26 @@
+h1 {
+  margin: 0;
+}
+h1 + p {
+  margin: 6px 0 0 0;
+}
+
+h2.day-title {
+  margin-top: 36px;
+  margin-bottom: 6px;
+}
+
+.class-link {
+  background-color: dimgray;
+  padding: 4px 6px;
+  border-radius: 2px;
+  text-decoration: none;
+  color: white;
+}
+.class-link:hover {
+  background-color: gray;
+}
+
+.day-desc {
+  margin: 6px 0 0 0;
+}
